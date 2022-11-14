@@ -1,0 +1,14 @@
+h1
+{
+    color:blue;
+    text-align: center;
+}
+body
+{
+    background-color: red;
+}
+h2
+{
+    background-position-x: left;
+    background-color:yellow;
+}
