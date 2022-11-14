@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>noscript tag</title>
+        <meta charset="utf-8">
+        <noscript>this tag is used for the browser which doesnot display script tag </noscript>
+    </style>
+</head>
+<body>
+    <h3>this is demo</h3>
+</body>
+</html>
